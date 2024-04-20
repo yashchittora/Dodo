@@ -2,6 +2,11 @@
 
 A simple ToDo App made with Flutter.
 
+### - Android
+[![Download](https://img.shields.io/badge/Download-E4405F?style=for-the-badge)](https://github.com/yashchittora/Dodo/releases/download/v1.0.0/Dodo.apk)
+
+### - macOS
+[![Download](https://img.shields.io/badge/Download-E4405F?style=for-the-badge)](https://github.com/yashchittora/Dodo/releases/download/v1.0.0/Dodo.dmg)
  
 Uses minimal external dependencies:
 
