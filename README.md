@@ -1,6 +1,8 @@
-# Dodo
+<p align="center">
+<img src="https://github.com/yashchittora/Dodo/assets/112685991/e76ba0a3-81e4-4e21-8991-1d06f538ddc0" width="300">
+</p>
+<h2 align="center">A simple To-Do App made with Flutter</h2>
 
-A simple ToDo App made with Flutter.
 
 ### - Android
 [![Download](https://img.shields.io/badge/Download-E4405F?style=for-the-badge)](https://github.com/yashchittora/Dodo/releases/download/v1.0.0/Dodo.apk)
